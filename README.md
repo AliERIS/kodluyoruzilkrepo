@@ -6,7 +6,9 @@ Bu repo [Kodluyoruz](https://abilinkverdinizdebenmiyazmadim.com) Front-End Eğit
 
 Öncelikle projeyi clonelayın.
 
-" git clone https://github.com/alieris/kodluyoruzilkrepo.git " 
+"""bash
+    git clone https://github.com/alieris/kodluyoruzilkrepo.git 
+ """ 
 
 
 ## USAGE
@@ -15,10 +17,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için
 
-'''
+'''linux
 
-cd kodluyoruzilkrepo
-code . 
+    cd kodluyoruzilkrepo
+    code . 
 
 '''
 
