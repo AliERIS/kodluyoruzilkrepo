@@ -1,6 +1,8 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://abilinkverdinizdebenmiyazmadim.com) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
+ ![is it alt?](/assets/images/tux.png)
+
 
 ## INSTALLATION
 
